@@ -1,4 +1,3 @@
 //Changes all images on the page to Justin Beiber
-//Copy and paste the code below
 
 javascript:(function(){Array.prototype.slice.call(document.querySelectorAll('img')).map(function(el){el.src = '//codebox.org.uk/graphics/bieber.jpg';});}())
