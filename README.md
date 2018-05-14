@@ -1,6 +1,6 @@
 # Bookmarklets
 
-<p>To apply this code to your browser and use it follow the steps below:
+To apply this code to your browser and use it follow the steps below:
 
 1. Copy the code in the selected code snippet. (ctrl + c)
 2. Create a new bookmark and then paste the code in the URL part (name it whatever you want). (ctrl + v)
@@ -9,4 +9,3 @@
 
 
 Go to this website to learn how to load unsafe scripts: https://www.youtube.com/watch?v=9bIDlMs_mBw
-</p>
