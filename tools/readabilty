@@ -1,0 +1,3 @@
+//show shows you the readabilty and the grade avreage
+
+javascript: (function()%7Bvar yourURL=(window.location.protocol=='http:'?'https://webapps.ncsu.edu/accessibility-readability/readability.php':'https://webapps.ncsu.edu/accessibility-readability/readability.php');function getScript(url,success)%7Bvar script=document.createElement('script');script.src=url;var head=document.getElementsByTagName('head')%5B0%5D,done=false;script.onload=script.onreadystatechange=function()%7Bif(!done&&(!this.readyState%7C%7Cthis.readyState=='loaded'%7C%7Cthis.readyState=='complete'))%7Bdone=true;success();script.onload=script.onreadystatechange=null;head.removeChild(script);%7D%7D;head.appendChild(script);%7D getScript(yourURL,function()%7B%7D);%7D)();
