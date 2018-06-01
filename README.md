@@ -7,5 +7,6 @@ To apply this code to your browser and use it follow the steps below:
 3. Click "Done"
 4. To use the bookmarklet click on it. (If in the top to the right of the URL if it shows a shield with an X, click on the shield      and then click "Load Unsafe Scripts" and then click the bookmarklet again.
 
-
-Go to this website to learn how to load unsafe scripts: https://www.youtube.com/watch?v=E0Ef0lDLcJY
+If you need help with javascript code
+(feel free to like and subscribe) 
+https://www.youtube.com/channel/UCJnTM9KAqDXsQvYVlFNCDXw
