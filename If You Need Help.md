@@ -1,3 +1,3 @@
-if you need help with the java codes
+if you need help with the javascript code
 feel free to like and subscribe 
 https://www.youtube.com/channel/UCJnTM9KAqDXsQvYVlFNCDXw
