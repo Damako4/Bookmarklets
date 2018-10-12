@@ -10,3 +10,7 @@ To apply this code to your browser and use it follow the steps below:
 If you need help with javascript code
 (feel free to like and subscribe) 
 https://www.youtube.com/channel/UCJnTM9KAqDXsQvYVlFNCDXw
+
+
+
+Contributors: Clyde Desouza, Marco Donato
